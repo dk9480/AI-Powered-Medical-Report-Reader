@@ -1,0 +1,25 @@
+Patient: John Doe, DOB: 1985-05-15
+Test: Comprehensive Metabolic Panel
+Date: 2024-09-20
+
+GLUCOSE: 95 mg/dL (Ref: 65-99)
+SODIUM: 140 mEq/L (Ref: 135-145)
+POTASSIUM: 4.1 mEq/L (Ref: 3.5-5.0)
+WBC: 12.5 x 10^9/L (Ref: 4.5-11.0) - HIGH
+RBC: 4.8 x 10^12/L (Ref: 4.2-5.9)
+PLATELETS: 250 x 10^9/L (Ref: 150-450)
+
+///////////////////////////////////////////////////////////
+
+LIPID PANEL - Fasting
+Collected: 10/04/2024 08:30
+
+CHOLESTEROL, TOTAL: 215 mg/dL (Desirable: <200) - Borderline High
+HDL CHOLOLESTEROL: 45 mg/dL (Desirable: >40)
+TRIGLYCERIDES: 180 mg/dL (Desirable: <150) - High
+LDL CHOLESTEROL (Calculated): 134 mg/dL (Desirable: <100) - High
+
+//////////////////////////////////////////////////////
+Impression:
+Patient presents with symptoms consistent with acute bronchitis. Lungs show scattered rhonchi bilaterally. No signs of pneumonia on physical exam. Chest X-ray recommended if symptoms do not improve in 7-10 days. Plan: Prescribed supportive care including rest, hydration, and an OTC cough suppressant. Follow up if fever develops or breathing becomes difficult.
+
